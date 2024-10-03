@@ -6,7 +6,7 @@ public class Bingo {
     public static void main(String[] args) {
     /*
 Projekt - BINGO!
-Napraviti projekat Bingo. Unutar ovog projekta cemo imati jednu klasu sa sledecim metodama:
+Napraviti projekt Bingo. Unutar ovog projekta cemo imati jednu klasu sa sledecim metodama:
 a) izgenerisi() - ova metoda treba da izgenerise i vrati niz od 30 nasumicnih brojeva 1-50.
 b) unesiSvoje() - unutar ove metode treba da unesete vasih 6 brojeva za pogadjanje (mozete da ih
 izgenerisete preko Random ili ubacite preko Scanner).
