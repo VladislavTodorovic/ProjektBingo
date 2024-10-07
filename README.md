@@ -1,1 +1,1 @@
-This project was an assignment after the Java section (before learning object-oriented programming) in the IT Bootcamp course "Software Testing (QA)" organized by "Fondacija Ana i Vlade Divac", which I completed in June 2024.
+This project was an assignment after the Java section (before learning object-oriented programming) in the IT Bootcamp course "Software Testing (QA)" organized by "Fondacija Ana i Vlade Divac", which I completed in June 2024. 
