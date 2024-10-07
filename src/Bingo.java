@@ -6,13 +6,13 @@ public class Bingo {
     public static void main(String[] args) {
     /*
 Projekt - BINGO!
-Napraviti projekt Bingo. Unutar ovog projekta cemo imati jednu klasu sa sledecim metodama:
-a) izgenerisi() - ova metoda treba da izgenerise i vrati niz od 30 nasumicnih brojeva 1-50.
+Napraviti projekt Bingo. Unutar ovog projekta imacemo jednu klasu sa sledecim metodama:
+a) izgenerisi() - ova metoda treba da izgenerise i vrati niz od 30 nasumicnih brojeva od 1 do 50.
 b) unesiSvoje() - unutar ove metode treba da unesete vasih 6 brojeva za pogadjanje (mozete da ih
 izgenerisete preko Random ili ubacite preko Scanner).
 c) izvlacenje(int[] prviNiz, int[] drugiNiz) - unosite dva prethodno izgenerisana niza i
 ispisuje se poruka koliko je brojeva ukupno pogodjeno.
-Unutar main metode klase pozvati samo ove tri metode za testiranje.
+Unutar main metode klase pozvati samo ove tri metode.
 
          */
         System.out.println("Dobro dosli! Pocinje Bingo!");
