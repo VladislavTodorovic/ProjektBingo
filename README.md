@@ -1,1 +1,1 @@
-Ovaj projekt je bio zadatak posle oblasti java (pre ucenja objektno-orijantisanog programiranja) na IT Bootcamp kursu "Testiranje softvera (QA)" u organizaciji Fondacije Ana i Vlade Divac koji sam zavrsio u junu 2024. godine.
+This project was an assignment after the Java section (before learning object-oriented programming) in the IT Bootcamp course "Software Testing (QA)" organized by "Fondacija Ana and Vlade Divac", which I completed in June 2024.
