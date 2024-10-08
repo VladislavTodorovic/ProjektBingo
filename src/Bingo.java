@@ -5,14 +5,12 @@ import java.util.Scanner;
 public class Bingo {
     public static void main(String[] args) {
     /*
-Projekt - BINGO!
-Napraviti projekt Bingo. Unutar ovog projekta imacemo jednu klasu sa sledecim metodama:
-a) izgenerisi() - ova metoda treba da izgenerise i vrati niz od 30 nasumicnih brojeva od 1 do 50.
-b) unesiSvoje() - unutar ove metode treba da unesete vasih 6 brojeva za pogadjanje (mozete da ih
-izgenerisete preko Random ili ubacite preko Scanner).
-c) izvlacenje(int[] prviNiz, int[] drugiNiz) - unosite dva prethodno izgenerisana niza i
-ispisuje se poruka koliko je brojeva ukupno pogodjeno.
-Unutar main metode klase pozvati samo ove tri metode.
+Project - BINGO!
+Create a Bingo project. Within this project, we will have one class with the following methods:
+a) izgenerisi() - this method should generate and return an array of 30 random numbers from 1 to 50.
+b) unesiSvoje() - within this method, you should enter your 6 numbers for guessing (you can generate them using Random or input them via Scanner).
+c) izvlacenje(int[] prviNiz, int[] drugiNiz) - you will input two previously generated arrays, and it will print a message indicating how many numbers were matched in total.
+In the main method of the class, only call these three methods.
 
          */
         System.out.println("Dobro dosli! Pocinje Bingo!");
