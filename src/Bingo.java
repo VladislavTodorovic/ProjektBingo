@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Bingo {
     public static void main(String[] args) {
     /*
-Project - BINGO!
+Project - BINGO!!!!!!
 Create a Bingo project. Within this project, we will have one class with the following methods:
 a) izgenerisi() - this method should generate and return an array of 30 random numbers from 1 to 50.
 b) unesiSvoje() - within this method, you should enter your 6 numbers for guessing (you can generate them using Random or input them via Scanner).
